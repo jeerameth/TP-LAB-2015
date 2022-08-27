@@ -38,7 +38,7 @@ Repository for 2015 Lab Microbiology Chulalongkorn
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-  <h3 align="center">TP LAB REPO</h3>
+  <h3 align="center">TP LAB REPO 🥇 </h3>
 
   <p align="center">
     Bioinformatic scripts repository for Tanapat Palaga Laboratory, Chulalongkorn University
@@ -147,6 +147,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Steal README template from other 😎
 - [ ] Add lab profile section
+    - [ ] Lab logo 
 - [ ] Add current project section
 - [ ] Add links to external lab websites
 - [ ] Add contact details
@@ -189,9 +190,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Jeerameth Klomsing (👨‍🍳Repo manager) - [@genejeerameth](https://www.instagram.com/genejeerameth/) - klomsinggene@gmail.com
-Ajarn (👨‍🏫Ajarn) - ???
-P'P (👨‍💻Bioinformatics advisor)
+Jeerameth Klomsing (👨‍🍳Repo manager) - [@genejeerameth](https://www.instagram.com/genejeerameth/) - klomsinggene@gmail.com <br>
+Ajarn (👨‍🏫Ajarn) - ???<br>
+P'P (👨‍💻Bioinformatics advisor) - ???
 
 Project Link: [https://github.com/jeerameth/TP-LAB-2015](https://github.com/jeerameth/TP-LAB-2015/)
 
